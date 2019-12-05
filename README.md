@@ -12,6 +12,8 @@
 
 > 教程文档地址: https://github.com/hequan2017/husky/tree/master/doc
 
+> 博客地址: https://blog.51cto.com/hequan/2447140
+
 
 ## 教程
 
